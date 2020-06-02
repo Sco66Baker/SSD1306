@@ -1,3 +1,8 @@
+
+//NZXT is a computer peripheral company. This code prints NZXT to a 128x32 OLED screen.
+//Visit Adafruit.com for parts and tutorials.
+
+
 #include <SPI.h>
 #include <Wire.h>
 #include <Adafruit_GFX.h>
